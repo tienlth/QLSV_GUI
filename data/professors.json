@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6386057677b9a4ba69aa436d"
+  },
+  "name": "Nguyễn Văn P",
+  "birth": "1970-12-28",
+  "hometown": "Cần Thơ",
+  "unit": "Khoa học máy tính",
+  "college": "Trường Công Nghệ Thông Tin & Truyền Thông",
+  "account": {
+    "username": "P123",
+    "password": "P123"
+  }
+},{
+  "_id": {
+    "$oid": "63862a96070c71820e22c3bf"
+  },
+  "name": "Nguyễn Văn O",
+  "birth": "1982-03-03",
+  "hometown": "Cần Thơ",
+  "unit": "Khoa học máy tính",
+  "college": "Khoa Luật",
+  "account": {
+    "username": "O123",
+    "password": "O123"
+  }
+},{
+  "_id": {
+    "$oid": "63862b58070c71820e22c3c1"
+  },
+  "name": "Trần Thị J",
+  "birth": "1975-06-09",
+  "hometown": "Cà Mau",
+  "unit": "Mạng máy tính và truyền thông",
+  "college": "Trường Bách Khoa",
+  "account": {
+    "username": "J123",
+    "password": "J123"
+  }
+},{
+  "_id": {
+    "$oid": "63862cd3070c71820e22c3c7"
+  },
+  "name": "Nguyễn Thị H",
+  "birth": "1983-06-14",
+  "hometown": "Cần Thơ",
+  "unit": "Khoa học máy tính",
+  "college": "Trường Công Nghệ Thông Tin & Truyền Thông",
+  "account": {
+    "username": "H123",
+    "password": "H123"
+  }
+}]

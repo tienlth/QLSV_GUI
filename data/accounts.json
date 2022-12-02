@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "6385fefe3cee6f228529bc0a"
+  },
+  "username": "admin",
+  "password": "root",
+  "role": "admin"
+},{
+  "_id": {
+    "$oid": "6386057677b9a4ba69aa436e"
+  },
+  "username": "P123",
+  "password": "P123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "6386057677b9a4ba69aa436d"
+    }
+  },
+  "role": "professor"
+},{
+  "_id": {
+    "$oid": "638627ae070c71820e22c3aa"
+  },
+  "username": "A123",
+  "password": "A123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "638627ae070c71820e22c3a9"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "638628c5070c71820e22c3ac"
+  },
+  "username": "B123",
+  "password": "B123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "638628c5070c71820e22c3ab"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "638628da070c71820e22c3ae"
+  },
+  "username": "C123",
+  "password": "C123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "638628da070c71820e22c3ad"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "638628ed070c71820e22c3b0"
+  },
+  "username": "D123",
+  "password": "D123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "638628ed070c71820e22c3af"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "63862907070c71820e22c3b2"
+  },
+  "username": "E123",
+  "password": "E123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "63862907070c71820e22c3b1"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "6386291a070c71820e22c3b4"
+  },
+  "username": "F123",
+  "password": "F123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "6386291a070c71820e22c3b3"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "6386292f070c71820e22c3b6"
+  },
+  "username": "G123",
+  "password": "G123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "6386292f070c71820e22c3b5"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "6386294e070c71820e22c3b8"
+  },
+  "username": "AAA",
+  "password": "AAA",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "6386294e070c71820e22c3b7"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "63862968070c71820e22c3ba"
+  },
+  "username": "BBB",
+  "password": "BBB",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "63862968070c71820e22c3b9"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "638629dd070c71820e22c3be"
+  },
+  "username": "K123",
+  "password": "K123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "638629dd070c71820e22c3bd"
+    }
+  },
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "63862a96070c71820e22c3c0"
+  },
+  "username": "O123",
+  "password": "O123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "63862a96070c71820e22c3bf"
+    }
+  },
+  "role": "professor"
+},{
+  "_id": {
+    "$oid": "63862b58070c71820e22c3c2"
+  },
+  "username": "J123",
+  "password": "J123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "63862b58070c71820e22c3c1"
+    }
+  },
+  "role": "professor"
+},{
+  "_id": {
+    "$oid": "63862cd3070c71820e22c3c8"
+  },
+  "username": "H123",
+  "password": "H123",
+  "user": {
+    "acknowledged": true,
+    "insertedId": {
+      "$oid": "63862cd3070c71820e22c3c7"
+    }
+  },
+  "role": "professor"
+}]

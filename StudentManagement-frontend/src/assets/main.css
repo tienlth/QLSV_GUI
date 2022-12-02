@@ -1,0 +1,28 @@
+a{
+    text-decoration: none !important;
+}
+
+nav a{
+    color: #fff !important;
+}
+
+nav li:hover{
+    background: rgb(255, 255, 255);
+    color: black !important;
+}
+
+nav li:hover a{
+    color: inherit !important;
+}
+
+nav {
+    height: 100vh;
+    width: 200px !important;
+    align-items: flex-start !important;
+    position: fixed !important;
+    top: 0;
+}
+
+form.login-form{
+    border-radius: 8px;
+}

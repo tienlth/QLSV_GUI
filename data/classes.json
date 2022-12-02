@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63862740070c71820e22c3a8"
+  },
+  "name": "MHUD-01",
+  "subject": "Máy học ứng dụng",
+  "day": "Thứ hai",
+  "room": "Phòng 101",
+  "time": "Tiết 2",
+  "long": 2
+},{
+  "_id": {
+    "$oid": "63862d19070c71820e22c3c9"
+  },
+  "name": "CT102-02",
+  "subject": "Lập trình hướng đối tượng",
+  "day": "Thứ tư",
+  "room": "Phòng 302",
+  "time": "Tiết 6",
+  "long": 5
+},{
+  "_id": {
+    "$oid": "63862d2c070c71820e22c3ca"
+  },
+  "name": "CT101-03",
+  "subject": "Lập trình căn bản",
+  "day": "Thứ ba",
+  "room": "Phòng 205",
+  "time": "Tiết 1",
+  "long": 3
+},{
+  "_id": {
+    "$oid": "63862d48070c71820e22c3cb"
+  },
+  "name": "XSTK302-02",
+  "subject": "Xác suất thống kê",
+  "day": "Thứ sáu",
+  "room": "Phòng 202",
+  "time": "Tiết 10",
+  "long": 4
+}]
